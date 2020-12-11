@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="faed5e51-1ffa-466a-995a-c46cd3ec0b9d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    <list default="true" id="faed5e51-1ffa-466a-995a-c46cd3ec0b9d" name="Default Changelist" comment="ajout des fichiers">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5g.html" beforeDir="false" afterPath="$PROJECT_DIR$/5g.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,8 +45,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1607636274127</updated>
-      <workItem from="1607636275356" duration="228000" />
+      <workItem from="1607636275356" duration="1403000" />
+      <workItem from="1607673355530" duration="43000" />
     </task>
+    <task id="LOCAL-00001" summary="ajout des fichiers">
+      <created>1607636552108</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1607636552108</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -61,5 +71,10 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ajout des fichiers" />
+    <option name="LAST_COMMIT_MESSAGE" value="ajout des fichiers" />
   </component>
 </project>
