@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="faed5e51-1ffa-466a-995a-c46cd3ec0b9d" name="Default Changelist" comment="ajout des fichiers">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/entreprise.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/5g.html" beforeDir="false" afterPath="$PROJECT_DIR$/5g.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ransomware.html" beforeDir="false" afterPath="$PROJECT_DIR$/ransomware.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +33,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
@@ -46,7 +50,8 @@
       <option name="presentableId" value="Default" />
       <updated>1607636274127</updated>
       <workItem from="1607636275356" duration="1403000" />
-      <workItem from="1607673355530" duration="43000" />
+      <workItem from="1607673355530" duration="3367000" />
+      <workItem from="1607676743375" duration="2038000" />
     </task>
     <task id="LOCAL-00001" summary="ajout des fichiers">
       <created>1607636552108</created>
@@ -55,7 +60,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607636552108</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="ajout des fichiers">
+      <created>1607673439477</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1607673439477</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -74,6 +86,7 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="ajout des fichiers" />
     <option name="LAST_COMMIT_MESSAGE" value="ajout des fichiers" />
   </component>
