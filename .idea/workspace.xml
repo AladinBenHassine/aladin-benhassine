@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="faed5e51-1ffa-466a-995a-c46cd3ec0b9d" name="Default Changelist" comment="ajout des fichiers">
-      <change afterPath="$PROJECT_DIR$/images/moi.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5g.html" beforeDir="false" afterPath="$PROJECT_DIR$/5g.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/entreprise.html" beforeDir="false" afterPath="$PROJECT_DIR$/entreprise.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/unknown.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ransomware.html" beforeDir="false" afterPath="$PROJECT_DIR$/ransomware.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +35,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/index.html" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -56,6 +53,11 @@
       <workItem from="1608143166935" duration="535000" />
       <workItem from="1608143741570" duration="2148000" />
       <workItem from="1608145920184" duration="657000" />
+      <workItem from="1608191901665" duration="1580000" />
+      <workItem from="1608198578701" duration="2000" />
+      <workItem from="1608200198132" duration="539000" />
+      <workItem from="1623394386786" duration="9000" />
+      <workItem from="1623394396910" duration="876000" />
     </task>
     <task id="LOCAL-00001" summary="ajout des fichiers">
       <created>1607636552108</created>
@@ -85,7 +87,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608145871011</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="ajout des fichiers">
+      <created>1608192153868</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1608192153869</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
