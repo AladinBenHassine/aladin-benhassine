@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="faed5e51-1ffa-466a-995a-c46cd3ec0b9d" name="Default Changelist" comment="ajout des fichiers">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/entreprise.html" beforeDir="false" afterPath="$PROJECT_DIR$/entreprise.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +55,7 @@
       <workItem from="1608198578701" duration="2000" />
       <workItem from="1608200198132" duration="539000" />
       <workItem from="1623394386786" duration="9000" />
-      <workItem from="1623394396910" duration="876000" />
+      <workItem from="1623394396910" duration="924000" />
     </task>
     <task id="LOCAL-00001" summary="ajout des fichiers">
       <created>1607636552108</created>
@@ -94,7 +92,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608192153869</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="ajout des fichiers">
+      <created>1623395302521</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1623395302521</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
